@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Virtual Assistant Services</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Your Virtual Assistant</h1>
+    <img src="https://via.placeholder.com/150" alt="Virtual Assistant Logo">
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#testimonials">Testimonials</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <section id="home">
+    <h2>Welcome</h2>
+    <img src="https://via.placeholder.com/300" alt="Welcome Image">
+    <p>We offer top-notch virtual assistant services to make your life easier.</p>
+  </section>
+  <section id="about">
+    <h2>About Us</h2>
+    <img src="https://via.placeholder.com/300" alt="About Us Image">
+    <p>We have years of experience in providing high-quality assistance.</p>
+  </section>
+  <section id="services">
+    <h2>Services</h2>
+    <img src="https://via.placeholder.com/300" alt="Services Image">
+    <p>We offer a range of services to suit your needs.</p>
+  </section>
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <img src="https://via.placeholder.com/300" alt="Testimonials Image">
+    <p>"The best virtual assistant service I've ever used." - Jane Doe</p>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email">
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+  <footer>
+    <p>&copy; 2023 Your Virtual Assistant. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Virtual Assistant Services</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Your Virtual Assistant</h1>
+    <img src="https://via.placeholder.com/150" alt="Virtual Assistant Logo">
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#testimonials">Testimonials</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <section id="home">
+    <h2>Welcome</h2>
+    <img src="https://via.placeholder.com/300" alt="Welcome Image">
+    <p>We offer top-notch virtual assistant services to make your life easier.</p>
+  </section>
+  <section id="about">
+    <h2>About Us</h2>
+    <img src="https://via.placeholder.com/300" alt="About Us Image">
+    <p>We have years of experience in providing high-quality assistance.</p>
+  </section>
+  <section id="services">
+    <h2>Services</h2>
+    <img src="https://via.placeholder.com/300" alt="Services Image">
+    <p>We offer a range of services to suit your needs.</p>
+  </section>
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <img src="https://via.placeholder.com/300" alt="Testimonials Image">
+    <p>"The best virtual assistant service I've ever used." - Jane Doe</p>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email">
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+  <footer>
+    <p>&copy; 2023 Your Virtual Assistant. All rights reserved.</p>
+  </footer>
+</body>
+</html>
